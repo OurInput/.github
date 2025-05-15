@@ -1,8 +1,10 @@
-Description:
+# OurInput Organization
+
+## Description:
 
 OurInput is a GitHub organization dedicated to reimagining the way we interact with digital text. We believe that current input methods, while highly functional for the majority of use cases, fall short when it comes to handling the nuanced and ever-evolving nature of human expression. Inspired by the freedom and flexibility of traditional pen and paper, we aim to build tools that empower users to create and integrate new characters and symbols seamlessly into their digital workflows.
 
-Motivation:
+## Motivation:
 
 Modern input methods are powerful tools, but they often feel restrictive when faced with unique or emerging communication needs. Just as a standard screwdriver struggles with a tamper-proof screw, existing input systems can be ill-equipped to handle the "0.1%" of input situations that demand novel characters or symbols.
 
